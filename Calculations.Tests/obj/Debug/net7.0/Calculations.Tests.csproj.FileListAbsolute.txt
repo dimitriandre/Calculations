@@ -1,0 +1,17 @@
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\bin\Debug\net7.0\Calculations.Tests.deps.json
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\bin\Debug\net7.0\Calculations.Tests.runtimeconfig.json
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\bin\Debug\net7.0\Calculations.Tests.dll
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\bin\Debug\net7.0\Calculations.Tests.pdb
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\Calculations.Tests.csproj.AssemblyReference.cache
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\Calculations.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\Calculations.Tests.AssemblyInfoInputs.cache
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\Calculations.Tests.AssemblyInfo.cs
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\Calculations.Tests.csproj.CoreCompileInputs.cache
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\Calculations.Tests.dll
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\refint\Calculations.Tests.dll
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\Calculations.Tests.pdb
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\Calculations.Tests.genruntimeconfig.cache
+C:\Users\DimitriAndre\source\repos\Calculations\Calculations.Tests\obj\Debug\net7.0\ref\Calculations.Tests.dll
